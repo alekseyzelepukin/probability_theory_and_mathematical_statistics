@@ -1,0 +1,2 @@
+# probability_theory_and_mathematical_statistics
+Факультет Искусственный интеллект: Теория вероятностей и математическая статистика
